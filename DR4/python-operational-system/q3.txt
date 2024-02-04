@@ -1,0 +1,15 @@
+q8.py: 3398
+q6_servidor.py: 1481
+q5.py: 1201
+q7_cliente.py: 1186
+q3.py: 1077
+q7_servidor.py: 1071
+q6_cliente.py: 978
+q1.py: 700
+q2.py: 355
+q4.py: 328
+teste.py: 317
+q3.txt: 266
+b.txt: 30
+a.txt: 22
+teste.txt: 0
